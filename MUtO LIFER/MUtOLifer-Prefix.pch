@@ -1,0 +1,15 @@
+//
+//  MUtOLifer-Prefix.pch
+//  MUtO LIFER
+//
+//  Created by Abilash Cumulations on 03/09/17.
+//  Copyright © 2017 Abilash. All rights reserved.
+//
+
+#ifndef MUtOLifer_Prefix_pch
+#define MUtOLifer_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* MUtOLifer_Prefix_pch */

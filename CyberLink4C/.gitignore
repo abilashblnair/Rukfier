@@ -1,0 +1,10 @@
+Makefile
+config
+config.*
+*.o
+*.a
+*.po
+*.dirstamp
+.DS_Store
+xcuserdata/
+.deps/

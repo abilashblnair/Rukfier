@@ -1,0 +1,190 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2BDCAD721F5B21A200A91A2B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2BDCAD731F5B21A200A91A2B /* AUTHORS */ = {isa = PBXFileReference; lastKnownFileType = text; path = AUTHORS; sourceTree = "<group>"; };
+		2BDCAD741F5B21A200A91A2B /* bootstrap */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = bootstrap; sourceTree = "<group>"; };
+		2BDCAD751F5B21A200A91A2B /* ChangeLog */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChangeLog; sourceTree = "<group>"; };
+		2BDCAD761F5B21A200A91A2B /* clinkc.pc.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = clinkc.pc.in; sourceTree = "<group>"; };
+		2BDCAD771F5B21A200A91A2B /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
+		2BDCAD781F5B21A200A91A2B /* config */ = {isa = PBXFileReference; lastKnownFileType = folder; path = config; sourceTree = "<group>"; };
+		2BDCAD791F5B21A200A91A2B /* config.h.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = config.h.in; sourceTree = "<group>"; };
+		2BDCAD7A1F5B21A200A91A2B /* configure */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = configure; sourceTree = "<group>"; };
+		2BDCAD7B1F5B21A200A91A2B /* configure.ac */ = {isa = PBXFileReference; lastKnownFileType = text; path = configure.ac; sourceTree = "<group>"; };
+		2BDCAD7C1F5B21A200A91A2B /* configure_macports */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = configure_macports; sourceTree = "<group>"; };
+		2BDCAD7D1F5B21A200A91A2B /* COPYING */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
+		2BDCAD7E1F5B21A200A91A2B /* debian */ = {isa = PBXFileReference; lastKnownFileType = folder; path = debian; sourceTree = "<group>"; };
+		2BDCAD7F1F5B21A200A91A2B /* Doxyfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Doxyfile; sourceTree = "<group>"; };
+		2BDCAD801F5B21A200A91A2B /* Doxyfile.objc */ = {isa = PBXFileReference; lastKnownFileType = text; path = Doxyfile.objc; sourceTree = "<group>"; };
+		2BDCAD811F5B21A200A91A2B /* DoxyFooterFile */ = {isa = PBXFileReference; lastKnownFileType = text; path = DoxyFooterFile; sourceTree = "<group>"; };
+		2BDCAD821F5B21A200A91A2B /* include */ = {isa = PBXFileReference; lastKnownFileType = folder; path = include; sourceTree = "<group>"; };
+		2BDCAD831F5B21A200A91A2B /* INSTALL */ = {isa = PBXFileReference; lastKnownFileType = text; path = INSTALL; sourceTree = "<group>"; };
+		2BDCAD841F5B21A200A91A2B /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lib; sourceTree = "<group>"; };
+		2BDCAD851F5B21A200A91A2B /* Makefile.am */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.am; sourceTree = "<group>"; };
+		2BDCAD861F5B21A200A91A2B /* Makefile.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.in; sourceTree = "<group>"; };
+		2BDCAD871F5B21A200A91A2B /* NEWS */ = {isa = PBXFileReference; lastKnownFileType = text; path = NEWS; sourceTree = "<group>"; };
+		2BDCAD881F5B21A200A91A2B /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		2BDCAD891F5B21A200A91A2B /* sample */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sample; sourceTree = "<group>"; };
+		2BDCAD8A1F5B21A200A91A2B /* src */ = {isa = PBXFileReference; lastKnownFileType = folder; path = src; sourceTree = "<group>"; };
+		2BDCAD8B1F5B21A200A91A2B /* std */ = {isa = PBXFileReference; lastKnownFileType = folder; path = std; sourceTree = "<group>"; };
+		2BDCAD8C1F5B21A200A91A2B /* tests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tests; sourceTree = "<group>"; };
+		2BDCAD8D1F5B21A200A91A2B /* wrapper */ = {isa = PBXFileReference; lastKnownFileType = folder; path = wrapper; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2BDCAD6C1F5B21A200A91A2B = {
+			isa = PBXGroup;
+			children = (
+				2BDCAD721F5B21A200A91A2B /* .gitignore */,
+				2BDCAD731F5B21A200A91A2B /* AUTHORS */,
+				2BDCAD741F5B21A200A91A2B /* bootstrap */,
+				2BDCAD751F5B21A200A91A2B /* ChangeLog */,
+				2BDCAD761F5B21A200A91A2B /* clinkc.pc.in */,
+				2BDCAD771F5B21A200A91A2B /* CMakeLists.txt */,
+				2BDCAD781F5B21A200A91A2B /* config */,
+				2BDCAD791F5B21A200A91A2B /* config.h.in */,
+				2BDCAD7A1F5B21A200A91A2B /* configure */,
+				2BDCAD7B1F5B21A200A91A2B /* configure.ac */,
+				2BDCAD7C1F5B21A200A91A2B /* configure_macports */,
+				2BDCAD7D1F5B21A200A91A2B /* COPYING */,
+				2BDCAD7E1F5B21A200A91A2B /* debian */,
+				2BDCAD7F1F5B21A200A91A2B /* Doxyfile */,
+				2BDCAD801F5B21A200A91A2B /* Doxyfile.objc */,
+				2BDCAD811F5B21A200A91A2B /* DoxyFooterFile */,
+				2BDCAD821F5B21A200A91A2B /* include */,
+				2BDCAD831F5B21A200A91A2B /* INSTALL */,
+				2BDCAD841F5B21A200A91A2B /* lib */,
+				2BDCAD851F5B21A200A91A2B /* Makefile.am */,
+				2BDCAD861F5B21A200A91A2B /* Makefile.in */,
+				2BDCAD871F5B21A200A91A2B /* NEWS */,
+				2BDCAD881F5B21A200A91A2B /* README */,
+				2BDCAD891F5B21A200A91A2B /* sample */,
+				2BDCAD8A1F5B21A200A91A2B /* src */,
+				2BDCAD8B1F5B21A200A91A2B /* std */,
+				2BDCAD8C1F5B21A200A91A2B /* tests */,
+				2BDCAD8D1F5B21A200A91A2B /* wrapper */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		2BDCAD711F5B21A200A91A2B /* CyberLink4C */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 2BDCAD8E1F5B21A200A91A2B /* Build configuration list for PBXLegacyTarget "CyberLink4C" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/abilashcumulations/Desktop/libre2/CyberLink4C;
+			dependencies = (
+			);
+			name = CyberLink4C;
+			passBuildSettingsInEnvironment = 1;
+			productName = CyberLink4C;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		2BDCAD6D1F5B21A200A91A2B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = 2BDCAD701F5B21A200A91A2B /* Build configuration list for PBXProject "CyberLink4C" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2BDCAD6C1F5B21A200A91A2B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2BDCAD711F5B21A200A91A2B /* CyberLink4C */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2BDCAD6E1F5B21A200A91A2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		2BDCAD6F1F5B21A200A91A2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		2BDCAD8F1F5B21A200A91A2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = CyberLink4C;
+			};
+			name = Debug;
+		};
+		2BDCAD901F5B21A200A91A2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = CyberLink4C;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2BDCAD701F5B21A200A91A2B /* Build configuration list for PBXProject "CyberLink4C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BDCAD6E1F5B21A200A91A2B /* Debug */,
+				2BDCAD6F1F5B21A200A91A2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2BDCAD8E1F5B21A200A91A2B /* Build configuration list for PBXLegacyTarget "CyberLink4C" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BDCAD8F1F5B21A200A91A2B /* Debug */,
+				2BDCAD901F5B21A200A91A2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2BDCAD6D1F5B21A200A91A2B /* Project object */;
+}
